@@ -2,3 +2,6 @@
 HumanActivity/html
 HumanActivity/__MACOSX
 HumanActivity/MatLab Files
+HumanActivity/UC HAR Dataset/.DS_Store
+HumanActivity/UC HAR Dataset/train/X_train.txt
+HumanActivity/UC HAR Dataset/test/X_test.txt
